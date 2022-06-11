@@ -1,8 +1,8 @@
 [[docs]]
-  name = "Prologue"
+  name = "an-introduction-to-linguistics"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "an-introduction-to-linguistics"
+  url = "/docs/an-introduction-to-linguistics/"
 
 [[docs]]
   name = "Help"
@@ -30,8 +30,8 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  url = "/docs/an-introduction-to-linguistics/introduction/"
+# url = "/docs/1.0/an-introduction-to-linguistics/introduction/"
   weight = 10
 
 # [[main]]
@@ -48,13 +48,13 @@
   name = "Get Started"
   weight = 30
   identifier = "get-started"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/an-introduction-to-linguistics/introduction/"
 
 [[main]]
   name = "Quick Start"
   weight = 40
   identifier = "quick-start"
-  url = "/docs/prologue/quick-start/"
+  url = "/docs/an-introduction-to-linguistics/quick-start/"
   parent = "get-started"
 
 [[main]]

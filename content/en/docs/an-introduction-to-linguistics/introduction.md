@@ -1,5 +1,5 @@
 ---
-title: "Quick Start"
+title: "オリエンテーション"
 description: "One page summary of how to start a new Doks project."
 lead: "One page summary of how to start a new Doks project."
 date: 2020-11-16T13:59:39+01:00
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "prologue"
-weight: 110
+weight: 100
 toc: true
 ---
 
@@ -76,4 +76,4 @@ Doks will start the Hugo development webserver accessible by default at `http://
 
 ## Other commands
 
-Doks comes with commands for common tasks. [Commands →]({{< relref "commands" >}})
+Doks comes with commands for common tasks. [音韻・音声 →]({{< relref "phonology-phonetics" >}})
