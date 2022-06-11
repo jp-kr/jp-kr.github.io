@@ -1,4 +1,4 @@
-baseurl = "https://jp-kr.github.io/"
+baseurl = "https://jp-kr.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
